@@ -1,4 +1,6 @@
-# Rack Routes and GET Params
+# GET Params Lab
+
+## Introduction
 
 We've provided the code for a basic list of items. Now it's your turn to extend it.
 Do your work in `app/application.rb`.
